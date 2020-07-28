@@ -1,4 +1,4 @@
-# Hi, I'm Dinesh 👋🏾‍👨‍💻
+# Hi, I'm Dinesh Kumar👋🏾‍👨‍💻
 
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community, online & offline. Some technologies I enjoy working with include Ethical Hacking, Java, Python (Tensorflow, APIs + Markup) and Android Developement. My interest in the Android Developement and open -source led me to contribute in more than 5 projects (Based on Android Open Source Project).
