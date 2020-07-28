@@ -11,6 +11,6 @@ I'm a software engineer who is passionate about making open-source more accessib
 
 ## How to reach me 📫: <img align="left" width="200" height="150" src="https://github.com/dinesh-ysl/dinesh-ysl/blob/master/080f909da46192c0db62b76330302b0c.gif?raw=true">
 - Thoughts in public on <a href="">Twitter</a> ✍🏾
-- Tinkering with interactions on <a href="t.me/tokyoofficial"> Telegram Channel</a> 🏓
+- Tinkering with interactions on <a href="https://t.me/tokyoofficial"> Telegram Channel</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/dinesh-kumar-765440190/">LinkedIn</a> 💼
-- Get in touch via <a href="t.me/tokyo_noob">Telegram</a>
+- Get in touch via <a href="https://t.me/tokyo_noob">Telegram</a>
