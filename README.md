@@ -10,7 +10,7 @@ I'm a software engineer who is passionate about making open-source more accessib
 - 😄  Pronouns: He/him
 - 🎮  Fun fact: I love playing Games and I'm currently researching physics behind it!
 
-## How to reach me 📫:
+## How to reach me 📫: <img align="right" src="https://github.com/dinesh-ysl/dinesh-ysl/blob/master/yoga_drib02.gif" alt="Illustration of Dinesh meditating" width=350px height=465px/>
 - Thoughts in public on <a href="">Twitter</a> ✍🏾
 - Tinkering with interactions on <a href="t.me/tokyoofficial"> Telegram Channel</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/dinesh-kumar-765440190/">LinkedIn</a> 💼
